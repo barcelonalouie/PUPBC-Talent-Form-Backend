@@ -19,7 +19,7 @@ jobs:
 
       - name: npm install and build
         run: |
-          cd API/expressNodeApp
+          cd PUPBC-Talent-Form-Backend
           npm install
           npm run build --if-present
 
